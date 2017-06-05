@@ -59,9 +59,9 @@
 				</div>
 					
 				<div class="hs-site-info">
-					<?php printf( esc_html__( '@Simbitgt', 'Company' ) ); ?>
+					<!--?php printf( esc_html__( '@Simbitgt', 'Company' ) ); ?-->
 					<span class="sep"> | </span>
-					<?php printf( esc_html__( '%1$s  %2$s', 'Politica de privacidad' ), '<a href="#" target="_blank">Plitica de Privacidad</a>', '' ); ?>
+					<?php printf( esc_html__( '%1$s  %2$s', 'Politica de privacidad' ), '<a href="#" target="_blank">Politica de Privacidad</a>', '' ); ?>
 				</div><!-- #site-info -->
 			</div>
 		</div>
