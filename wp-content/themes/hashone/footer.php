@@ -59,7 +59,7 @@
 				</div>
 					
 				<div class="hs-site-info">
-					<?php printf( esc_html__( 'WordPress Theme', 'hashone' ) ); ?>
+					<?php printf( esc_html__( '@Simbitgt', 'Company' ) ); ?>
 					<span class="sep"> | </span>
 					<?php printf( esc_html__( '%1$s by %2$s', 'hashone' ), '<a href="https://hashthemes.com/wordpress-theme/hashone/" target="_blank">Hashone</a>', 'Hash Themes' ); ?>
 				</div><!-- #site-info -->
