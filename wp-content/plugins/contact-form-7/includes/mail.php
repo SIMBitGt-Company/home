@@ -114,7 +114,7 @@ class WPCF7_Mail {
 			$headers .= $additional_headers . "\n";
 		}
 
-		return wp_mail( $recipient, $subject, $body, $headers, $attachments );
+		return mail( $recipient, $subject, $body, $headers, $attachments );
 	}
 
 	public function replace_tags( $content, $args = '' ) {
